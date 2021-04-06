@@ -1,0 +1,37 @@
+/* font-family: 'Source Sans Pro', sans-serif;
+
+font-family: 'Train One', cursive; */
+
+.navbar {
+    margin-bottom: 15px;
+    font-family: 'Train One', cursive;
+    color: white;
+    background-color: #272777;
+}
+
+.btn {
+    background-color: #272777;
+    border-radius: 0px 15px 15px 0px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.jumbotron {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: transparent;
+    border: 2px solid #d8d8d8;
+    border-radius: 25px;
+}
+
+.jumbotron h3 {
+    padding-left: 30px;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.jumbotron p {
+    padding-left: 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
